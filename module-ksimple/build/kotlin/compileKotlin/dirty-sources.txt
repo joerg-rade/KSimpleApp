@@ -1,0 +1,8 @@
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\Application.kt
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\dom\so\SimpleObject.kt
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\dom\so\SimpleObjects.kt
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\fixture\SimpleObjectBuilder.kt
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\fixture\SimpleObject_persona.kt
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\SimpleModule.kt
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\types\Name.kt
+C:\data\master\KSimpleApp\module-ksimple\src\main\kotlin\domainapp\modules\ksimple\types\Notes.kt
